@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:siyabuilds/carbontrackr
+[submodule "client"]
+	path = client
+	url = git@github.com:siyabuilds/carbontrackr_frontend
