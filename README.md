@@ -251,7 +251,7 @@ docker-compose up --build      # Magic happens here!
 | `POST`   | `/api/targets`                | Create reduction target     |
 | `PUT`    | `/api/targets/:id`            | Update reduction target     |
 
-📚 **Full Documentation:** See [`client/API_DOCS.md`](client/API_DOCS.md) for complete API reference!
+📚 **Full Documentation:** See [`client/API_DOCS.md`](https://github.com/siyabuilds/carbontrackr-frontend/blob/main/API_DOCS.md) for complete API reference!
 
 ---
 
